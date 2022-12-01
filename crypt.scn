@@ -37,7 +37,6 @@
         24,
         -6
       ],
-      "physics": true,
       "start_url": "https://webaverse.github.io/flying-rug/.metaversefile",
       "dynamic": false
     },
@@ -58,7 +57,6 @@
         2,
         2
       ],
-      "physics": true,
       "start_url": "https://propialis.github.io/crypt.glb",
       "dynamic": false
     }
