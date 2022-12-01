@@ -1,0 +1,160 @@
+{
+  "objects": [
+    {
+      "type": "application/light",
+      "content": {
+        "lightType": "ambient",
+        "args": [[255, 255, 255], 2]
+      }
+    },
+    {
+      "type": "application/light",
+      "content": {
+        "lightType": "directional",
+        "args": [[255, 255, 255], 4],
+        "position": [1, 2, 3]
+      }
+    },
+    {
+      "type": "application/rendersettings",
+      "content": {
+        "fog": {
+          "fogType": "exp",
+          "args": [[255, 255, 255], 0.01]
+        },
+        "dof": {
+          "focus": 2.0,
+          "aperture": 0.0001,
+          "maxblur": 0.005
+        },
+        "hdr": {
+          "adaptive": true,
+          "resolution": 256,
+          "adaptionRate": 50,
+          "maxLuminance": 20,
+          "minLuminance": 0,
+          "middleGrey": 3
+        },
+        "bloom": {
+          "strength": 0.1,
+          "radius": 0.3,
+          "threshold": 0.99
+        }
+      }
+    },
+    {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "start_url": "https://webaverse.github.io/skybox-anime/"
+    },
+    {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "quaternion": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "start_url": "https://webaverse.github.io/homespace_new/"
+    },
+    {
+      "type": "application/spawnpoint",
+      "content": {
+        "position": [-27, 1, 0.5],
+        "quaternion": [
+          0,
+          0.707,
+          0,
+          0.707
+        ]
+      }
+    },
+    {
+      "position": [
+        -17.5,
+        0,
+        3.5
+      ],
+      "start_url": "https://webaverse.github.io/characters/drake.npc"
+    },
+      {
+      "position": [
+        -20,
+        0,
+        3.5
+      ],
+      "start_url": "https://webaverse.github.io/characters/hyacinth.npc"
+    },
+      {
+      "position": [
+        -21,
+        0,
+        3.5
+      ],
+      "quaternion": [
+        0,
+        0.707,
+        0,
+        0.707
+      ],
+      "start_url": "https://webaverse.github.io/fox"
+    },
+    {
+      "position": [
+        -21,
+        1,
+        -2
+      ],
+      "start_url": "https://webaverse.github.io/silsword"
+    },
+    {
+      "position": [
+        -20,
+        1,
+        -2
+      ],
+      "quaternion": [
+        0,
+        0.707,
+        0,
+        0.707
+      ],
+      "start_url": "https://webaverse.github.io/uzi"
+    },
+    {
+      "position": [
+        -19,
+        1,
+        -2
+      ],
+      "quaternion": [
+        0,
+        0.707,
+        0,
+        0.707
+      ],
+      "start_url": "https://webaverse.github.io/pistol"
+    },
+    {
+      "position": [
+        -18,
+        1,
+        -2
+      ],
+      "quaternion": [
+        0,
+        0.707,
+        0,
+        0.707
+      ],
+      "start_url": "https://webaverse.github.io/bow"
+    }
+  ]
+}
