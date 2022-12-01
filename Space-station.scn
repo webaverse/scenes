@@ -61,7 +61,6 @@
         2,
         2
       ],
-      "physics": false,
       "start_url": "https://webaverse.github.io/hauntedspace/",
       "dynamic": true
     },
@@ -84,7 +83,6 @@
         0.03,
         0.03
       ],
-      "physics": false,
       "start_url": "https://webaverse.github.io/huntersrest/",
       "dynamic": true
     },
@@ -108,7 +106,6 @@
         2,
         2
       ],
-      "physics": false,
       "start_url": "https://webaverse.github.io/factory/",
       "dynamic": true
     },
@@ -130,7 +127,6 @@
         1,
         1
       ],
-      "physics": false,
       "start_url": "https://webaverse.github.io/spacestation/",
       "dynamic": true
     },
@@ -153,7 +149,6 @@
         5.6,
         100
       ],
-      "physics": false,
       "start_url": "https://webaverse.github.io/Greywalkway/",
       "dynamic": true
     },
@@ -176,7 +171,6 @@
         0.1,
         0.1
       ],
-      "physics": false,
       "start_url": "https://webaverse.github.io/stationsci-fi/",
       "dynamic": true
     },
@@ -199,7 +193,6 @@
         5,
         5
       ],
-      "physics": false,
       "start_url": "https://webaverse.github.io/sci-fi-portal/",
       "dynamic": true
     },
@@ -222,7 +215,6 @@
         2,
         2
       ],
-      "physics": false,
       "start_url": "https://webaverse.github.io/dumanifestin/",
       "dynamic": true
     },
@@ -245,7 +237,6 @@
         7,
         7
       ],
-      "physics": false,
       "start_url": "https://alisaad673.github.io/Spaceship/",
       "dynamic": true
     },
@@ -268,7 +259,6 @@
         7,
         7
       ],
-      "physics": false,
       "start_url": "https://alisaad673.github.io/Spaceship2/",
       "dynamic": true
     }
