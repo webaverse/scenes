@@ -104,7 +104,7 @@
         0,
         0.707
       ],
-      "start_url": "https://webaverse.github.io/fox"
+      "start_url": "https://webaverse.github.io/fox/"
     },
     {
       "position": [
@@ -112,7 +112,7 @@
         1,
         -2
       ],
-      "start_url": "https://webaverse.github.io/silsword"
+      "start_url": "https://webaverse.github.io/silsword/"
     },
     {
       "position": [
@@ -126,7 +126,7 @@
         0,
         0.707
       ],
-      "start_url": "https://webaverse.github.io/uzi"
+      "start_url": "https://webaverse.github.io/uzi/"
     },
     {
       "position": [
@@ -140,7 +140,7 @@
         0,
         0.707
       ],
-      "start_url": "https://webaverse.github.io/pistol"
+      "start_url": "https://webaverse.github.io/pistol/"
     },
     {
       "position": [
@@ -154,7 +154,7 @@
         0,
         0.707
       ],
-      "start_url": "https://webaverse.github.io/bow"
+      "start_url": "https://webaverse.github.io/bow/"
     }
   ]
 }
