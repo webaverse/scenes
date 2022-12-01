@@ -86,7 +86,6 @@
         0,
         1
       ],
-      "physics": false,
       "start_url": "https://webaverse.github.io/infinifruit/",
       "dynamic": true
     },
@@ -102,7 +101,6 @@
         0,
         1
       ],
-      "physics": false,
       "start_url": "https://webaverse.github.io/barrier/",
       "dynamic": true
     },
@@ -118,7 +116,6 @@
         0,
         1
       ],
-      "physics": false,
       "start_url": "https://webaverse.github.io/silkworm/",
       "dynamic": true
     },
