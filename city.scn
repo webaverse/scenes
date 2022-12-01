@@ -50,7 +50,6 @@
         0.002,
         0.002
       ],
-      "physics": false,
       "start_url": "https://webaverse.github.io/city-scene/",
       "dynamic": true
     }
