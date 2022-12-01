@@ -54,7 +54,6 @@
         10,
         10
       ],
-      "physics": true,
       "start_url": "https://webaverse.github.io/Voxelz/",
       "dynamic": false
     },
@@ -69,7 +68,6 @@
         1,
         1
       ],
-      "physics": true,
       "start_url": "https://alisaad673.github.io/npc.1/N3D-29-VRM.vrm",
       "dynamic": false
     }, 
@@ -84,7 +82,6 @@
         1,
         1
       ],
-      "physics": true,
       "start_url": "https://alisaad673.github.io/npc.1/N3D-43-VRM.vrm",
       "dynamic": false
     }
