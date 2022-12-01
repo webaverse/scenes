@@ -68,7 +68,6 @@
         0.5,
         0.5
       ],
-      "physics": true,
       "start_url": "https://webaverse.github.io/plaza/",
       "dynamic": false
     }
