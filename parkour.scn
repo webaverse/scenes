@@ -84,7 +84,6 @@
         0,
         0
       ],
-      "physics": true,
       "start_url": "https://galadwarder.github.io/WebaParkour/Parkour_Arena_v5_KTX.glb",
       "dynamic": false
     }
