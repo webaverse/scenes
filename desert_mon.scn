@@ -30,7 +30,6 @@
         0,
         0
       ],
-      "physics": true,
       "start_url": "https://propialis.github.io/desert_monument/monument_desert.glb",
       "dynamic": false
     },
