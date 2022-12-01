@@ -50,7 +50,6 @@
         0.21,
         0.21
       ],
-      "physics": false,
       "start_url": "https://webaverse.github.io/Basalt-Rocks/",
       "dynamic": true
     },
@@ -71,7 +70,6 @@
         45,
         45
       ],
-      "physics": false,
       "start_url": "https://webaverse.github.io/pirate-ship/",
       "dynamic": true
     },
@@ -92,7 +90,6 @@
         0.31,
         0.31
       ],
-      "physics": false,
       "start_url": "https://webaverse.github.io/motor-boat/",
       "dynamic": true
     },
@@ -102,7 +99,6 @@
         1,
         0
       ],
-      "physics": true,
       "start_url": "https://webaverse.github.io/dynamic-water/",
       "dynamic": false
     },
@@ -161,7 +157,6 @@
         4,
         4
       ],
-      "physics": false,
       "start_url": "https://webaverse.github.io/jatayu-birdsculpture/",
       "dynamic": true
     }
