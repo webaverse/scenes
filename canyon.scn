@@ -59,7 +59,6 @@
         0,
         0
       ],
-      "physics": true,
       "start_url": "https://webaverse.github.io/canyon/canyon.glb",
       "dynamic": false
     }
