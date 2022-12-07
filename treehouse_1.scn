@@ -10,21 +10,6 @@
     },
     {
       "position": [
-        4,
-        0,
-        1
-      ],
-      "quaternion": [
-        0,
-        0.7071067811865475,
-        0,
-        0.7071067811865475
-      ],
-      "start_url": "/avatars/gear.vrm",
-      "dynamic": true
-    },
-    {
-      "position": [
         -13,
         0,
         0
