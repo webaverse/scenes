@@ -19,7 +19,7 @@
               5
             ],
             "position": [
-              1,
+              -1,
               10,
               3
             ],
@@ -60,21 +60,13 @@
               150,
               255
             ],
-            0.001
+            0.002
           ]
         },
-        "hdr": {
-          "adaptive": true,
-          "resolution": 256,
-          "adaptionRate": 50,
-          "maxLuminance": 20,
-          "minLuminance": 0,
-          "middleGrey": 3
-        },
         "bloom": {
-          "strength": 1,
-          "radius": 0.5,
-          "threshold": 0.98
+          "strength": 1.0,
+          "radius": 0.4,
+          "threshold": 1.0
         }
       }
     },
@@ -105,7 +97,7 @@
         {
           "key": "start",
           "value": {
-            "y": -75
+            "y": -70
           }
         },
         {
