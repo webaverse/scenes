@@ -232,11 +232,6 @@
     {
       "position": [0, 0, 0],
       "quaternion": [0, 0, 0, 1],
-      "start_url": "https://webaverse.github.io/heightfield/"
-    },
-    {
-      "position": [0, 0, 0],
-      "quaternion": [0, 0, 0, 1],
       "start_url": "https://webaverse.github.io/npcs/"
     },
     {
